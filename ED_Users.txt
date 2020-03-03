@@ -13,5 +13,4 @@ Change 18 Feb
 
 006, asdll
 
-007, abcdedf
-008, ziefej
+007, Bond
